@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaebradley/textstyle.git"
+    "url": "git+https://github.com/jaebradley/textstyler.git"
   },
   "keywords": [
     "text",
@@ -24,9 +24,9 @@
   "author": "jae.b.bradley@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaebradley/textstyle/issues"
+    "url": "https://github.com/jaebradley/textstyler/issues"
   },
-  "homepage": "https://github.com/jaebradley/textstyle#readme",
+  "homepage": "https://github.com/jaebradley/textstyler#readme",
   "jest": {
     "testEnvironment": "node"
   },
