@@ -22,6 +22,8 @@ I mostly built this library to handle text match results returned by [the GitHub
     ]
 }
 ```
+so that I can format the matching fragment like
+![alt-text](https://imgur.com/BASukro.png)
 
 ## Install
 `npm install textstyler --save`
