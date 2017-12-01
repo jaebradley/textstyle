@@ -2,7 +2,7 @@
   "name": "textstyler",
   "version": "0.0.0-development",
   "description": "Style your text",
-  "main": "index.js",
+  "main": "./build/index.js",
   "scripts": {
     "codecov": "codecov",
     "commitmsg": "commitlint -e $GIT_PARAMS",
