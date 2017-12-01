@@ -97,4 +97,5 @@ const anotherStyledRange = new StyledRange(anotherRange, anotherStyle);
 const styledText = TextStyler.style(value, [ styledRange, anotherStyledRange ]);
 ```
 The above example should output
+
 ![alt-ext](https://imgur.com/Bmf5vQq.png)
